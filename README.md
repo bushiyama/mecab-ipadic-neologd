@@ -1,3 +1,7 @@
+## Why fork?
+The module hash seemed to have been changed, so I disabled the check.  
+https://github.com/bushiyama/mecab-ipadic-neologd/commit/93bd5fd0c2d37edcaa5e8b88922c578501af902e
+
 # mecab-ipadic-NEologd : Neologism dictionary for MeCab
 <img src="https://raw.githubusercontent.com/neologd/mecab-ipadic-neologd/images/neologd-logo-September2016.png" width="250">
 
